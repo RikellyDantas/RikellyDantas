@@ -2,11 +2,12 @@
 
 I'm **Rikelly**, a **Developer in Progress**, exploring the world of **Front-End Development**! 🚀
 
+![Image](https://github.com/user-attachments/assets/4a3264e1-c119-43b8-a9d5-3493d76900b2)
+
 ## 👩‍💻 About Me
 - 🌱 I’m currently learning **HTML, CSS, and JavaScript**.
 - 🎯 My goal is to become a skilled **Front-End Developer**.
 - 💡 Open to learning new technologies and improving my coding skills every day.
-
   
 ## 🛠 Tech Stack
 ### Main skills:
