@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**RikellyDantas/RikellyDantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Rikelly**, a **Developer in Progress**, exploring the world of **Front-End Development**! 🚀
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- 🌱 I’m currently learning **HTML, CSS, and JavaScript**.
+- 🎯 My goal is to become a skilled **Front-End Developer**.
+- 💡 Open to learning new technologies and improving my coding skills every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** HTML, CSS, JavaScript
+- **Tools:** Git & GitHub, VS Code
+
+## 📌 Projects
+*(Coming Soon!)*
+
+## 📫 Let's Connect!
+- 🌐 [Portfolio](#) *(Coming Soon!)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rikelly-dantas-99b453223/)
+
+
+
+😊
+
+
+
