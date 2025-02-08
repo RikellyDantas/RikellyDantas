@@ -7,6 +7,7 @@ I'm **Rikelly**, a **Developer in Progress**, exploring the world of **Front-End
 - 🎯 My goal is to become a skilled **Front-End Developer**.
 - 💡 Open to learning new technologies and improving my coding skills every day.
 
+  
 ## 🛠 Tech Stack
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=#FFFFFF&textColor=0D1117)&nbsp;
